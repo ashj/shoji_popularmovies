@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Popular Movies - Stage 1</string>
+
+    <string name="sort_by">Sort by</string>
+
+    <array name="sort_criterion_array">
+        <item>Popularity</item>
+        <item>Top Rated</item>
+    </array>
+
+    <string name="average_vote_label">Vote Average</string>
+    <string name="overview_label">Overview</string>
+    <string name="release_date_label">Release Date</string>
+
+    <string name="error_null_json_returned">Something went wrong.</string>
+</resources>
